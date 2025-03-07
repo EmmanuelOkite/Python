@@ -1,0 +1,20 @@
+def students_detail():
+    student = {"name":input ("please enter your name"),
+               "age":input ("please enter your age"),
+               "gender":input ("please enter your gender"),
+               "program":input ("please enter your program"),
+               "year_of_study":input ("please enter your year of study"),
+               "test1":int(input ("please enter the test1 marks")),
+               "test2":int(input ("please enter the test2 marks")),
+               "coursework":int(input ("please enter the coursework marks")),
+               "exam":int(input ("please enter the exam marks")),
+               "best_mark":int(input ("please enter the bestmark")),
+               "final_mark":int(input ("please enter the final mark")),
+    }
+
+               
+            
+    
+
+    
+               

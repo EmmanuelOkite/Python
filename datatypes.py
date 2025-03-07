@@ -18,7 +18,3 @@ word = "hello world"
 print(type(word))
 print(type(num4))
 print(word[0])
-
-
-
-9

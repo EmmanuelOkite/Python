@@ -18,4 +18,6 @@ print(num1+num2)
 #a group of related code is called a block
 #a block of code in a python script is called a program
 #the running/implementig of a program is called execution
-
+#the proces of creating a variable is called declaring
+#the process of giving a value in a variable is called initializing or assigning
+#semantics is the meaning of what you have written
